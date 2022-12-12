@@ -1,12 +1,8 @@
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
 body {
 	background: black;
 }
 p {
-	color: red;
+	color: blue;
 }
 .postcard {
 	background: white;
@@ -37,12 +33,13 @@ p {
 }
 input {
 	border: none;
-	border-bottom: grey;
+	border-bottom: rebeccapurple !important;
+	padding: 5px;
 }
 .postcard-footer {
 	text-align: center;
 }
 button {
 	background-color: gray;
-	padding: 5px;
+	padding: 10px;
 }
