@@ -31,10 +31,11 @@ p {
 .body-right {
 	padding: 5px;
 }
-input {
+.body-right input {
+	margin: 1px;
 	border: none;
-	border-bottom: rebeccapurple !important;
-	padding: 5px;
+	border-bottom: 0.5mm solid grey;
+	margin-right: 10px;
 }
 .postcard-footer {
 	text-align: center;
